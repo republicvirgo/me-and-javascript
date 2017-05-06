@@ -39,3 +39,7 @@ console.log(newArray)
 var obj = {'key1': 'value1'}
 var array = [...obj]
 console.log(array)
+
+var obj = { b:2, c: 3 }
+var newObj = { a: 1, ...obj }
+console.log(newObj)
