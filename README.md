@@ -1,10 +1,10 @@
 # Javascript
-## repo to learn Javascript
+repo to learn Javascript
 
 
 ## JavaScript - mastering
 
-Behavior of Functions and Variables
+**Behavior of Functions and Variables**
 
   Variable Scope
   
