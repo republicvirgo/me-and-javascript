@@ -6,6 +6,8 @@ repo to learn Javascript
 
 **Behavior of Functions and Variables**
 
+=========================================
+
   Variable Scope
   
   Variable Hoisting
@@ -17,12 +19,16 @@ repo to learn Javascript
   Value vs. Reference
   
   
-Asynchrony
+**Asynchrony**
+
+=========================================
 
   Asynchrony, setTimeout & the Event Loop
   
   
-Object Oriented Programming
+**Object Oriented Programming**
+
+=========================================
 
   Introduction to 'this', 'new' & OOP
   
@@ -37,7 +43,9 @@ Object Oriented Programming
   Object & Function Prototypes
   
   
-Arrays & Objects, IIFEs, and Functional Programming
+**Arrays & Objects, IIFEs, and Functional Programming**
+
+=========================================
 
   Map & Filter
   
@@ -49,7 +57,9 @@ Arrays & Objects, IIFEs, and Functional Programming
   
   Immediately Invoked Function Expressions
   
-ES2015, 2016, 2017+
+**ES2015, 2016, 2017+**
+
+=========================================
 
   The Future of JavaScript
   
